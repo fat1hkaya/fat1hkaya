@@ -2,8 +2,8 @@
 
 Computer Engineering student at **Marmara University** focusing on **Security Operations (SOC)**, SIEM/SOAR tooling and blue-team lab work.
 
-- 🛡️ SOC intern, Information Security Directorate, VakıfBank
-- 🔎 Working with **Splunk**, **Wazuh** and **Shuffle SOAR**
+- 🛡️ Completed a SOC internship at VakıfBank, Information Security Directorate (2026)
+- 🔎 Hands-on with **Splunk**, **Wazuh** and **Shuffle SOAR**
 - 🌐 Trained in **CCNA**, **Blue Team** and **penetration testing**; practicing on [TryHackMe](https://tryhackme.com/p/NullTraceX)
 - 💻 Languages: **C**, **Java**, **Python**, **8086 Assembly**
 
