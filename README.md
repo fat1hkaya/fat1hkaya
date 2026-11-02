@@ -15,7 +15,7 @@ Computer Engineering student at **Marmara University** focusing on **Security Op
 |---|---|---|
 | [soc-home-lab](https://github.com/fat1hkaya/soc-home-lab) | End-to-end home SOC lab: attack simulation → Splunk detections → Shuffle SOAR automation, with three documented case studies and an IOC extractor | Splunk SPL, Shuffle SOAR, Wazuh, Python |
 | [phishlens](https://github.com/fat1hkaya/phishlens) | Phishing triage tool for `.eml` files: header/URL/attachment checks, 0–100 risk score, defanged IOCs and MITRE ATT&CK-mapped reports (CLI, web UI, JSON API) | Python, Flask, Docker, pytest, GitHub Actions |
-| [saldirilar-ve-tespit](https://github.com/fat1hkaya/saldirilar-ve-tespit) | Turkish guide series on common attacks and how a SOC detects them (work in progress) | Markdown |
+| [saldirilar-ve-tespit](https://github.com/fat1hkaya/saldirilar-ve-tespit) | Turkish guide to the top 100 attacks for an enterprise SOC: how each works, how to detect it and how to prevent it (work in progress) | Splunk SPL, Wazuh |
 
 ## 🧩 Other projects
 
